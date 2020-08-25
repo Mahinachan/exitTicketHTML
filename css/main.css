@@ -1,0 +1,11 @@
+/* comments: CTRL + /  How this works:
+
+CSS syntax
+
+selector (elements/id/class) { property: value;
+}
+*/
+
+label {
+  color: red;
+}
